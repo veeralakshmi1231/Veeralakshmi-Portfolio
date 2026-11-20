@@ -36,10 +36,12 @@ Welcome to my GitHub Portfolio! I am an aspiring AI and Machine Learning Enginee
 - Displays book details.
 - Includes book issue functionality.
 - Managed using Git and GitHub.
+- - GitHub: [Library Management System](https://github.com/veeralakshmi1231/LibraryManagementSystem)
 
 ### 2. AlumniConnect
 - Student and alumni management project.
 - Technologies: React.js, Node.js, Express.js and MySQL.
+- - GitHub: [AlumniConnect](https://github.com/veeralakshmi1231/AlumniConnect-final)
 
 ### 3. Smart League
 - Web development project.
@@ -49,10 +51,11 @@ Welcome to my GitHub Portfolio! I am an aspiring AI and Machine Learning Enginee
 
 ## 🏆 Achievements & Experience
 
-- Completed internship experiences in the technology domain.
-- Participated in technical training and skill development activities.
-- Worked on practical full-stack development projects.
-- Developed hands-on experience with Git and GitHub.
+- Completed internship experiences at Cognifyz Technologies and Blaze Web Services Pvt. Ltd.
+- Gained practical experience in Full Stack Web Development.
+- Participated in technical training programs and skill development activities.
+- Developed practical projects using Python, React.js, Node.js and MySQL.
+- Practiced version control and project management using Git and GitHub.
 
 ---
 
